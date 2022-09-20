@@ -7,3 +7,91 @@
     display: block;
     clear: both;
 }
+
+.full-body{
+    margin: 0 auto;
+    color: #ffffff;
+}
+.nav-item a{
+    font-size: 16px;
+}
+.btn-bg-vio{
+    background-color: #8692ff !important;
+    color: #ffffff !important;
+}
+.count-section{
+    background-color: #8692ff;
+
+}
+.Count{
+    padding: 50px;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.card01 h1{
+    display: inline-block;
+    text-align: center;
+    background-color: #f9f9ff;
+    color: #000000;
+    font-size: 30px;
+    padding: 50px;
+    border-radius: 50%;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: 500;
+}
+.card-h4{
+    color: #909090;
+    padding: 20px;
+}
+
+.card-btn{
+    border-color: #8692ff;
+    border-width: 2px;
+    color: #8692ff;
+    padding: 10px 25px;
+    font-size: 18px;
+    border: 2px solid #8692ff !IMPORTANT;
+    box-shadow: 2.5px 4.5px 30px 0px #8692ff3e;
+}
+
+.bg-section{
+    background-color: #f9f9ff;
+}
+
+.Personal-p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.mar-Prog{
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+section.Prog-section {
+    margin-top: 200px !IMPORTANT;
+}
+.card-body img{
+    text-align: left !important;
+    
+    margin-top: -150px;
+    margin-bottom: 20px;
+    width: 165px;
+}
+
+.btn-contract{
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #17a2b8;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.footer-section{
+    background-color: #04091e;
+    font-size: 22px;
+}
